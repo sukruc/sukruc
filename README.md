@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/sukruc?tab=repositories&language=python">
-        <img src="https://img.shields.io/badge/Fantastic%20data%20related%20title%20here-14354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+        <img src="https://img.shields.io/badge/imagine%20a%20Fantastic%20data%20related%20title%20here-14354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
 </p>
 <br>
 <p align="center">
