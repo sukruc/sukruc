@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruc" alt="sukruc" /> </p>
 
 <p align="center">
     <a href="https://github.com/sukruc?tab=repositories&language=python">
