@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sukruc&show_icons=true">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
 
 <p align="center">
     <a href="https://github.com/sukruc?tab=repositories&language=python">
